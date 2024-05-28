@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unfluke-project/static/css/main.9838a9f0.css",
+    "main.js": "/unfluke-project/static/js/main.352052c1.js",
+    "static/js/453.bf2ca449.chunk.js": "/unfluke-project/static/js/453.bf2ca449.chunk.js",
+    "index.html": "/unfluke-project/index.html",
+    "main.9838a9f0.css.map": "/unfluke-project/static/css/main.9838a9f0.css.map",
+    "main.352052c1.js.map": "/unfluke-project/static/js/main.352052c1.js.map",
+    "453.bf2ca449.chunk.js.map": "/unfluke-project/static/js/453.bf2ca449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9838a9f0.css",
+    "static/js/main.352052c1.js"
+  ]
+}
